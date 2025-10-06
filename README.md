@@ -49,3 +49,8 @@ python ./scripts/slack_to_jira_webhook.py --port 8080 --dry-run
 
 ## 📝 License
 MIT — see `LICENSE`.
+
+---
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![Last commit](https://img.shields.io/github/last-commit/suresh-1001/jira-service-automation)
